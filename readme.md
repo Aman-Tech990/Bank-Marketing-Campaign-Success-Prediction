@@ -201,7 +201,7 @@ This ensemble approach improves accuracy and reduces variance compared to a sing
 1. Clone the repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/Aman-Tech990/Bank-Marketing-Campaign-Success-Prediction
 ```
 
 2. Install dependencies
